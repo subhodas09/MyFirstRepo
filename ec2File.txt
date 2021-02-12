@@ -1,1 +1,0 @@
-hello all i am creating this file from ec2 instance
