@@ -1,3 +1,5 @@
 [submodule "subModule"]
 	path = subModule
 	url = https://github.com/subhodas09/subModule.git
+[submodule "https://github.com/subhodas09/subModule.git"]
+	branch = master
